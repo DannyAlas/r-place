@@ -1,6 +1,6 @@
 # R/Place Data Project (Not Finished)
 ###  **r/place**  was a collaborative social experiment hosted by [Reddit](https://reddit.com "Reddit")  on  April Fools' Day 2017 and repeated again on April Fools' Day 2022.
-### This project so far has used the python to take the ~22Gb of reddit data about the event and condense it into a more useable ~1Gb parquet file. I have also created heat maps of the placed pixel data such that the density of placed pixels per time in an area can be observed by hieght values
+### This project so far has used python to process the ~22Gb of reddit provided data and condense it into a more useable ~1Gb parquet file. As well as created heat maps of the placed pixel data such that the density of placed pixels per time in an area can be observed by hieght values
 - Next I would like to use this data to create a 3D render of the canvas and use a framework such as WebGl to create a website that allows users to view the data in 3D space over time.
 
 ## What is R/Place? 
